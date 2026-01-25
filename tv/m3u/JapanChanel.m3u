@@ -1,0 +1,151 @@
+#EXTINF:-1 tvg-name="NHK G HD" tvg-logo="https://live.fanmingming.cn/tv/NHK G HD (Primehome).png" group-title="🇯🇵日本",NHK G HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
+#EXTINF:-1 tvg-name="NHK E HD" tvg-logo="https://live.fanmingming.cn/tv/NHK E HD (Primehome).png" group-title="🇯🇵日本",NHK E HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
+#EXTINF:-1 tvg-name="日テレHD" tvg-logo="https://live.fanmingming.cn/tv/NTV HD (Primehome).png" group-title="🇯🇵日本",NTV HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd03
+#EXTINF:-1 tvg-name="TBS HD" tvg-logo="https://live.fanmingming.cn/tv/TBS HD (Primehome).png" group-title="🇯🇵日本",TBS HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd04
+#EXTINF:-1 tvg-name="フジテレビHD" tvg-logo="https://live.fanmingming.cn/tv/Fuji TV HD (Primehome).png" group-title="🇯🇵日本",Fuji TV HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd05
+#EXTINF:-1 tvg-name="テレビ朝日HD" tvg-logo="https://live.fanmingming.cn/tv/TV Asahi HD (Primehome).png" group-title="🇯🇵日本",TV Asahi HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
+#EXTINF:-1 tvg-name="テレビ東京HD" tvg-logo="https://live.fanmingming.cn/tv/TV Tokyo HD (Primehome).png" group-title="🇯🇵日本",TV Tokyo HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
+#EXTINF:-1 tvg-name="TOKYO MX1 HD" tvg-logo="https://live.fanmingming.cn/tv/TOKYO MX1 HD (Primehome).png" group-title="🇯🇵日本",TOKYO MX1 HD
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
+
+#EXTINF:-1 tvg-name="NHK G" tvg-logo="https://live.fanmingming.cn/tv/NHK G.png" group-title="🇯🇵日本",NHK G
+https://nl.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 tvg-name="NHK E" tvg-logo="https://live.fanmingming.cn/tv/NHK E.png" group-title="🇯🇵日本",NHK E
+https://nl.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 tvg-name="日テレ" tvg-logo="https://live.fanmingming.cn/tv/NTV.png" group-title="🇯🇵日本",NTV
+https://nl.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 tvg-name="TBS" tvg-logo="https://live.fanmingming.cn/tv/TBS.png" group-title="🇯🇵日本",TBS
+https://nl.utako.moe/TBS/index.m3u8
+#EXTINF:-1 tvg-name="フジテレビ" tvg-logo="https://live.fanmingming.cn/tv/Fuji TV.png" group-title="🇯🇵日本",Fuji TV
+https://nl.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:-1 tvg-name="テレビ朝日" tvg-logo="https://live.fanmingming.cn/tv/TV Asahi.png" group-title="🇯🇵日本",TV Asahi
+https://nl.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 tvg-name="テレビ東京" tvg-logo="https://live.fanmingming.cn/tv/TV Tokyo.png" group-title="🇯🇵日本",TV Tokyo
+https://nl.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 tvg-name="TOKYO MX1" tvg-logo="https://live.fanmingming.cn/tv/TOKYO MX1.png" group-title="🇯🇵日本",TOKYO MX1
+https://nl.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 tvg-name="TOKYO MX2" tvg-logo="https://live.fanmingming.cn/tv/TOKYO MX2.png" group-title="🇯🇵日本",TOKYO MX2
+https://nl.utako.moe/Tokyo_MX2/index.m3u8
+#EXTINF:-1 tvg-name="テレビ大阪" tvg-logo="https://live.fanmingming.cn/tv/TV Osaka.png" group-title="🇯🇵日本",TV Osaka
+https://nl.utako.moe/tvo/index.m3u8
+#EXTINF:-1 tvg-name="関西テレビ" tvg-logo="https://live.fanmingming.cn/tv/Kansai TV.png" group-title="🇯🇵日本",Kansai TV
+https://nl.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 tvg-name="読売テレビ" tvg-logo="https://live.fanmingming.cn/tv/ytv.png" group-title="🇯🇵日本",ytv
+https://nl.utako.moe/ytv/index.m3u8
+#EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://live.fanmingming.cn/tv/NHK BS.png" group-title="🇯🇵日本",NHK BS
+https://nl.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 tvg-name="BS日テレ" tvg-logo="https://live.fanmingming.cn/tv/BS NTV.png" group-title="🇯🇵日本",BS NTV
+https://nl.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 tvg-name="BS朝日" tvg-logo="https://live.fanmingming.cn/tv/BS Asahi.png" group-title="🇯🇵日本",BS Asahi
+https://nl.utako.moe/bsasahi/index.m3u8
+#EXTINF:-1 tvg-name="BS TBS" tvg-logo="https://live.fanmingming.cn/tv/BS TBS.png" group-title="🇯🇵日本",BS TBS
+https://nl.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 tvg-name="BSテレ東" tvg-logo="https://live.fanmingming.cn/tv/BS TV Tokyo.png" group-title="🇯🇵日本",BS TV Tokyo
+https://nl.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 tvg-name="BSフジ" tvg-logo="https://live.fanmingming.cn/tv/BS Fuji.png" group-title="🇯🇵日本",BS Fuji
+https://nl.utako.moe/bsfuji/index.m3u8
+#EXTINF:-1 tvg-name="BS 10 Premium" tvg-logo="https://live.fanmingming.cn/tv/BS 10 Premium.png" group-title="🇯🇵日本",BS 10 Premium
+https://nl.utako.moe/bs10_star/index.m3u8
+#EXTINF:-1 tvg-name="BS11" tvg-logo="https://live.fanmingming.cn/tv/BS11.png" group-title="🇯🇵日本",BS11
+https://nl.utako.moe/BS11/index.m3u8
+#EXTINF:-1 tvg-name="NHK BS4K" tvg-logo="https://live.fanmingming.cn/tv/NHK BS4K.png" group-title="🇯🇵日本",NHK BS4K
+https://nl.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 tvg-name="日テレ G+" tvg-logo="https://live.fanmingming.cn/tv/Nittele G+.png" group-title="🇯🇵日本",Nittele G+
+https://nl.utako.moe/ntvgplus/index.m3u8
+#EXTINF:-1 tvg-name="TBS Channel 1" tvg-logo="https://live.fanmingming.cn/tv/TBS Channel 1.png" group-title="🇯🇵日本",TBS Channel 1
+https://nl.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 tvg-name="TBS Channel 2" tvg-logo="https://live.fanmingming.cn/tv/TBS Channel 2.png" group-title="🇯🇵日本",TBS Channel 2
+https://nl.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 tvg-name="テレ朝 Channel 1" tvg-logo="https://live.fanmingming.cn/tv/TV Asahi Channel 1.png" group-title="🇯🇵日本",TV Asahi Channel 1
+https://nl.utako.moe/ex_ch1/index.m3u8
+#EXTINF:-1 tvg-name="テレ朝 Channel 2" tvg-logo="https://live.fanmingming.cn/tv/TV Asahi Channel 2.png" group-title="🇯🇵日本",TV Asahi Channel 2
+https://nl.utako.moe/ex_ch2/index.m3u8
+#EXTINF:-1 tvg-name="フジテレビONE" tvg-logo="https://live.fanmingming.cn/tv/Fuji TV ONE.png" group-title="🇯🇵日本",Fuji TV ONE
+https://nl.utako.moe/fuji_one/index.m3u8
+#EXTINF:-1 tvg-name="フジテレビTWO" tvg-logo="https://live.fanmingming.cn/tv/Fuji TV TWO.png" group-title="🇯🇵日本",Fuji TV TWO
+https://nl.utako.moe/fuji_two/index.m3u8
+#EXTINF:-1 tvg-name="フジテレビNEXT" tvg-logo="https://live.fanmingming.cn/tv/Fuji TV NEXT.png" group-title="🇯🇵日本",Fuji TV NEXT
+https://nl.utako.moe/fuji_next/index.m3u8
+#EXTINF:-1 tvg-name="WOWOW Prime" tvg-logo="https://live.fanmingming.cn/tv/WOWOW Prime.png" group-title="🇯🇵日本",WOWOW Prime
+https://nl.utako.moe/wprime/index.m3u8
+#EXTINF:-1 tvg-name="WOWOW Cinema" tvg-logo="https://live.fanmingming.cn/tv/WOWOW Cinema.png" group-title="🇯🇵日本",WOWOW Cinema
+https://nl.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 tvg-name="WOWOW Live" tvg-logo="https://live.fanmingming.cn/tv/WOWOW Live.png" group-title="🇯🇵日本",WOWOW Live
+https://nl.utako.moe/wlive/index.m3u8
+
+#EXTINF:-1 tvg-name="JSport 1" tvg-logo="https://live.fanmingming.cn/tv/JSport 1.png" group-title="🇯🇵日本",JSport 1
+https://nl.utako.moe/js1/index.m3u8
+#EXTINF:-1 tvg-name="JSport 2" tvg-logo="https://live.fanmingming.cn/tv/JSport 2.png" group-title="🇯🇵日本",JSport 2
+https://nl.utako.moe/js2/index.m3u8
+#EXTINF:-1 tvg-name="JSport 3" tvg-logo="https://live.fanmingming.cn/tv/JSport 3.png" group-title="🇯🇵日本",JSport 3
+https://nl.utako.moe/js3/index.m3u8
+#EXTINF:-1 tvg-name="JSport 4" tvg-logo="https://live.fanmingming.cn/tv/JSport 4.png" group-title="🇯🇵日本",JSport 4
+https://nl.utako.moe/js4/index.m3u8
+#EXTINF:-1 tvg-name="Gaora Sports" tvg-logo="https://live.fanmingming.cn/tv/Gaora Sports.png" group-title="🇯🇵日本",Gaora Sports
+https://nl.utako.moe/gaora/index.m3u8
+#EXTINF:-1 tvg-name="Sport Live Plus" tvg-logo="https://live.fanmingming.cn/tv/Sport Live Plus.png" group-title="🇯🇵日本",Sport Live Plus
+https://nl.utako.moe/sport_live_plus/index.m3u8
+#EXTINF:-1 tvg-name="ゴルフネットワーク" tvg-logo="https://live.fanmingming.cn/tv/Golf Network.png" group-title="🇯🇵日本",Golf Network
+https://nl.utako.moe/golf_network/index.m3u8
+#EXTINF:-1 tvg-name="スカイA" tvg-logo="https://live.fanmingming.cn/tv/Sky A.png" group-title="🇯🇵日本",Sky A
+https://nl.utako.moe/skya/index.m3u8
+#EXTINF:-1 tvg-name="Fighting TV Samurai" tvg-logo="https://live.fanmingming.cn/tv/Fighting TV Samurai.png" group-title="🇯🇵日本",Fighting TV Samurai
+https://nl.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 tvg-name="Green Channel" tvg-logo="https://live.fanmingming.cn/tv/Green Channel.png" group-title="🇯🇵日本",Green Channel
+https://nl.utako.moe/green/index.m3u8
+#EXTINF:-1 tvg-name="エンタメテレ" tvg-logo="https://live.fanmingming.cn/tv/Entermei Tele.png" group-title="🇯🇵日本",Entermei Tele
+https://nl.utako.moe/entermei_tele/index.m3u8
+#EXTINF:-1 tvg-name="旅" tvg-logo="https://live.fanmingming.cn/tv/Tabi Channel.png" group-title="🇯🇵日本",Tabi Channel
+https://nl.utako.moe/tabi/index.m3u8
+
+#EXTINF:-1 tvg-name="The Cinema" tvg-logo="https://live.fanmingming.cn/tv/The Cinema.png" group-title="🇯🇵日本",The Cinema
+https://nl.utako.moe/the_cinema/index.m3u8
+#EXTINF:-1 tvg-name="ディズニーチャンネル" tvg-logo="https://live.fanmingming.cn/tv/Disney Channel.png" group-title="🇯🇵日本",Disney Channel
+https://nl.utako.moe/disneychan/index.m3u8
+#EXTINF:-1 tvg-name="ファミリー劇場" tvg-logo="https://live.fanmingming.cn/tv/Family Gekijyo.png" group-title="🇯🇵日本",Family Gekijyo
+https://nl.utako.moe/familygeki/index.m3u8
+#EXTINF:-1 tvg-name="Mondo TV" tvg-logo="https://live.fanmingming.cn/tv/Mondo TV.png" group-title="🇯🇵日本",Mondo TV
+https://nl.utako.moe/mondo/index.m3u8
+#EXTINF:-1 tvg-name="ホームドラマチャンネル" tvg-logo="https://live.fanmingming.cn/tv/Home Drama Channel.png" group-title="🇯🇵日本",Home Drama Channel
+https://nl.utako.moe/homedrama/index.m3u8
+#EXTINF:-1 tvg-name="チャンネル銀河" tvg-logo="https://live.fanmingming.cn/tv/Channel Ginga.png" group-title="🇯🇵日本",Channel Ginga
+https://nl.utako.moe/gingach/index.m3u8
+#EXTINF:-1 tvg-name="Neco Channel" tvg-logo="https://live.fanmingming.cn/tv/Neco Channel.png" group-title="🇯🇵日本",Neco Channel
+https://nl.utako.moe/neco/index.m3u8
+#EXTINF:-1 tvg-name="Dlife" tvg-logo="https://live.fanmingming.cn/tv/Dlife.png" group-title="🇯🇵日本",Dlife
+https://nl.utako.moe/dlife/index.m3u8
+#EXTINF:-1 tvg-name="東映ch" tvg-logo="https://live.fanmingming.cn/tv/Toei Channel.png" group-title="🇯🇵日本",Toei Channel
+https://nl.utako.moe/toei/index.m3u8
+#EXTINF:-1 tvg-name="日本映画専門" tvg-logo="https://live.fanmingming.cn/tv/Nihon Eiga Senmon.png" group-title="🇯🇵日本",Nihon Eiga Senmon
+https://nl.utako.moe/nihoneiga/index.m3u8
+
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://live.fanmingming.cn/tv/Animax.png" group-title="🇯🇵日本",Animax
+https://nl.utako.moe/Animax/index.m3u8
+#EXTINF:-1 tvg-name="AT-X" tvg-logo="https://live.fanmingming.cn/tv/AT-X.png" group-title="🇯🇵日本",AT-X
+https://nl.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://live.fanmingming.cn/tv/Cartoon Network.png" group-title="🇯🇵日本",Cartoon Network
+https://nl.utako.moe/cartoon_network/index.m3u8
+#EXTINF:-1 tvg-name="キッズステション" tvg-logo="https://live.fanmingming.cn/tv/Kids Station.png" group-title="🇯🇵日本",Kids Staton
+https://nl.utako.moe/kids_station/index.m3u8
+
+#EXTINF:-1 tvg-name="スペースシャワーTV" tvg-logo="https://live.fanmingming.cn/tv/Space Shower TV.png" group-title="🇯🇵日本",Space Shower TV
+https://nl.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://live.fanmingming.cn/tv/MTV.png" group-title="🇯🇵日本",MTV
+https://nl.utako.moe/mtv/index.m3u8
+#EXTINF:-1 tvg-name="歌謡ポップス" tvg-logo="https://live.fanmingming.cn/tv/Kayo Pops.png" group-title="🇯🇵日本",Kayo Pops
+https://nl.utako.moe/kayopops/index.m3u8
+#EXTINF:-1 tvg-name="Music ON TV" tvg-logo="https://live.fanmingming.cn/tv/Music ON TV.png" group-title="🇯🇵日本",Music ON TV
+https://nl.utako.moe/musicon/index.m3u8
+
+
+#EXTINF:-1 ,QVC Japan
+http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+#EXTINF:-1 ,ショップチャンネル
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
