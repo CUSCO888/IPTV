@@ -14,7 +14,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd06
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd07
 #EXTINF:-1 tvg-name="TOKYO MX1 HD" tvg-logo="https://live.fanmingming.cn/tv/TOKYO MX1 HD (Primehome).png" group-title="🇯🇵日本",TOKYO MX1 HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd08
-
 #EXTINF:-1 tvg-name="NHK G" tvg-logo="https://live.fanmingming.cn/tv/NHK G.png" group-title="🇯🇵日本",NHK G
 https://nl.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 tvg-name="NHK E" tvg-logo="https://live.fanmingming.cn/tv/NHK E.png" group-title="🇯🇵日本",NHK E
@@ -79,7 +78,6 @@ https://nl.utako.moe/wprime/index.m3u8
 https://nl.utako.moe/wcinema/index.m3u8
 #EXTINF:-1 tvg-name="WOWOW Live" tvg-logo="https://live.fanmingming.cn/tv/WOWOW Live.png" group-title="🇯🇵日本",WOWOW Live
 https://nl.utako.moe/wlive/index.m3u8
-
 #EXTINF:-1 tvg-name="JSport 1" tvg-logo="https://live.fanmingming.cn/tv/JSport 1.png" group-title="🇯🇵日本",JSport 1
 https://nl.utako.moe/js1/index.m3u8
 #EXTINF:-1 tvg-name="JSport 2" tvg-logo="https://live.fanmingming.cn/tv/JSport 2.png" group-title="🇯🇵日本",JSport 2
@@ -104,7 +102,6 @@ https://nl.utako.moe/green/index.m3u8
 https://nl.utako.moe/entermei_tele/index.m3u8
 #EXTINF:-1 tvg-name="旅" tvg-logo="https://live.fanmingming.cn/tv/Tabi Channel.png" group-title="🇯🇵日本",Tabi Channel
 https://nl.utako.moe/tabi/index.m3u8
-
 #EXTINF:-1 tvg-name="The Cinema" tvg-logo="https://live.fanmingming.cn/tv/The Cinema.png" group-title="🇯🇵日本",The Cinema
 https://nl.utako.moe/the_cinema/index.m3u8
 #EXTINF:-1 tvg-name="ディズニーチャンネル" tvg-logo="https://live.fanmingming.cn/tv/Disney Channel.png" group-title="🇯🇵日本",Disney Channel
@@ -125,7 +122,6 @@ https://nl.utako.moe/dlife/index.m3u8
 https://nl.utako.moe/toei/index.m3u8
 #EXTINF:-1 tvg-name="日本映画専門" tvg-logo="https://live.fanmingming.cn/tv/Nihon Eiga Senmon.png" group-title="🇯🇵日本",Nihon Eiga Senmon
 https://nl.utako.moe/nihoneiga/index.m3u8
-
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://live.fanmingming.cn/tv/Animax.png" group-title="🇯🇵日本",Animax
 https://nl.utako.moe/Animax/index.m3u8
 #EXTINF:-1 tvg-name="AT-X" tvg-logo="https://live.fanmingming.cn/tv/AT-X.png" group-title="🇯🇵日本",AT-X
@@ -134,7 +130,6 @@ https://nl.utako.moe/AT-X/index.m3u8
 https://nl.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 tvg-name="キッズステション" tvg-logo="https://live.fanmingming.cn/tv/Kids Station.png" group-title="🇯🇵日本",Kids Staton
 https://nl.utako.moe/kids_station/index.m3u8
-
 #EXTINF:-1 tvg-name="スペースシャワーTV" tvg-logo="https://live.fanmingming.cn/tv/Space Shower TV.png" group-title="🇯🇵日本",Space Shower TV
 https://nl.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 tvg-name="MTV" tvg-logo="https://live.fanmingming.cn/tv/MTV.png" group-title="🇯🇵日本",MTV
@@ -143,8 +138,6 @@ https://nl.utako.moe/mtv/index.m3u8
 https://nl.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 tvg-name="Music ON TV" tvg-logo="https://live.fanmingming.cn/tv/Music ON TV.png" group-title="🇯🇵日本",Music ON TV
 https://nl.utako.moe/musicon/index.m3u8
-
-
 #EXTINF:-1 ,QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 ,ショップチャンネル
