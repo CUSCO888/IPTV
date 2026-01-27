@@ -57,21 +57,21 @@ https://nl.utako.moe/bs10_star/index.m3u8
 https://nl.utako.moe/BS11/index.m3u8
 #EXTINF:-1 tvg-name="NHK BS4K" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/NHKBS4K.jpg" group-title="🇯🇵日本BS",NHK BS4K
 https://nl.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 tvg-name="日テレ G+" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/日テレG+.jpg" group-title="🇯🇵日本BS",日テレ G+
+#EXTINF:-1 tvg-name="日テレ G+" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/日テレG+.jpg" group-title="🇯🇵日本CS",日テレ G+
 https://nl.utako.moe/ntvgplus/index.m3u8
-#EXTINF:-1 tvg-name="TBS Ch1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/tbsch1.jpg" group-title="🇯🇵日本BS",TBS Channel 1
+#EXTINF:-1 tvg-name="TBS Ch1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/tbsch1.jpg" group-title="🇯🇵日本CS",TBS Channel 1
 https://nl.utako.moe/tbsch1/index.m3u8
-#EXTINF:-1 tvg-name="TBS Ch2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/tbsch2.jpg" group-title="🇯🇵日本BS",TBS Channel 2
+#EXTINF:-1 tvg-name="TBS Ch2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/tbsch2.jpg" group-title="🇯🇵日本CS",TBS Channel 2
 https://nl.utako.moe/tbsch2/index.m3u8
-#EXTINF:-1 tvg-name="テレ朝 Channel 1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/Ttv-asahi-ch1.jpg" group-title="🇯🇵日本BS",テレ朝 Ch1
+#EXTINF:-1 tvg-name="テレ朝 Channel 1" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/Ttv-asahi-ch1.jpg" group-title="🇯🇵日本CS",テレ朝 Ch1
 https://nl.utako.moe/ex_ch1/index.m3u8
-#EXTINF:-1 tvg-name="テレ朝 Channel 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/tv-asahi-ch2.jpg" group-title="🇯🇵日本BS",テレ朝 Ch2
+#EXTINF:-1 tvg-name="テレ朝 Channel 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/tv-asahi-ch2.jpg" group-title="🇯🇵日本CS",テレ朝 Ch2
 https://nl.utako.moe/ex_ch2/index.m3u8
-#EXTINF:-1 tvg-name="フジテレビONE" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/フジテレビONE.jpg" group-title="🇯🇵日本BS",フジテレビONE
+#EXTINF:-1 tvg-name="フジテレビONE" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/フジテレビONE.jpg" group-title="🇯🇵日本CS",フジテレビONE
 https://nl.utako.moe/fuji_one/index.m3u8
-#EXTINF:-1 tvg-name="フジテレビTWO" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/フジテレビTWO.png" group-title="🇯🇵日本BS",フジテレビTWO
+#EXTINF:-1 tvg-name="フジテレビTWO" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/フジテレビTWO.png" group-title="🇯🇵日本CS",フジテレビTWO
 https://nl.utako.moe/fuji_two/index.m3u8
-#EXTINF:-1 tvg-name="フジテレビNEXT" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/フジテレビNEXT.png" group-title="🇯🇵日本BS",フジテレビNEXT
+#EXTINF:-1 tvg-name="フジテレビNEXT" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/フジテレビNEXT.png" group-title="🇯🇵日本CS",フジテレビNEXT
 https://nl.utako.moe/fuji_next/index.m3u8
 #EXTINF:-1 tvg-name="WOWOW Prime" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/wowowprime.jpg" group-title="🇯🇵日本WOWOW",WOWOW Prime
 https://nl.utako.moe/wprime/index.m3u8
@@ -143,3 +143,26 @@ https://nl.utako.moe/musicon/index.m3u8
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 #EXTINF:-1 tvg-name="ショップチャンネル" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/ショップチャンネル.png" group-title="🇯🇵日本ショッピング",ショップチャンネル
 http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+#EXTINF:-1 tvg-dt="98" tvg-id="rch_98" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png" group-title="RAKUTEN",セクシーエンタメチャンネル
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 tvg-dt="59" tvg-id="rch_59" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png" group-title="RAKUTEN",おとなの歓楽街 by MEN’S NECO
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="41" tvg-id="rch_41" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png" group-title="RAKUTEN",アイドル・グラビア
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="40" tvg-id="rch_40" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png" group-title="RAKUTEN",刺激ストロング
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="42" tvg-id="rch_42" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png" group-title="RAKUTEN",映画（R15+）
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8#EXTINF:-1 tvg-dt="59" tvg-id="rch_59" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/240_mensneco.png" group-title="RAKUTEN",おとなの歓楽街 by MEN’S NECO
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelmensnecohlscmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="41" tvg-id="rch_41" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/241_gravure.png" group-title="RAKUTEN",アイドル・グラビア
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="40" tvg-id="rch_40" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png" group-title="RAKUTEN",刺激ストロング
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
+
+#EXTINF:-1 tvg-dt="42" tvg-id="rch_42" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png" group-title="RAKUTEN",映画（R15+）
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
