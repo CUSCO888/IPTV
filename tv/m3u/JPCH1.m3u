@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/CUSCO888/IPTV/refs/heads/main/tv/m3u/guides.xml"
 
 #MAIN DTV1
 #EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="DTV1",NHK综合 東京 (Willfon)
