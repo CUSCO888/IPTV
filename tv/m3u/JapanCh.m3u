@@ -37,7 +37,7 @@ https://nl.utako.moe/Tokyo_MX2/index.m3u8
 https://nl.utako.moe/tvo/index.m3u8
 #EXTINF:-1 tvg-name="関西テレビ" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/関西テレビ.jpg" group-title="🇯🇵日本地上",関西テレビ
 https://nl.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 tvg-name="読卖テレビ" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/読売テレビ.png" group-title="🇯🇵日本地上",読卖テレビ
+#EXTINF:-1 tvg-name="読売テレビ" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/読売テレビ.png" group-title="🇯🇵日本地上",読売テレビ
 https://nl.utako.moe/ytv/index.m3u8
 #EXTINF:-1 tvg-name="NHK BS" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/NHKBS.png" group-title="🇯🇵日本BS",NHK BS
 https://nl.utako.moe/NHK_BS/index.m3u8
@@ -67,7 +67,7 @@ https://nl.utako.moe/tbsch2/index.m3u8
 https://nl.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 tvg-name="テレ朝 Channel 2" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/tv-asahi-ch2.jpg" group-title="🇯🇵日本BS",テレ朝 Ch2
 https://nl.utako.moe/ex_ch2/index.m3u8
-#EXTINF:-1 tvg-name="フジテレビONE" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/フジテレビONE.jpg" group-title="🇯🇵日本BSBS",フジテレビONE
+#EXTINF:-1 tvg-name="フジテレビONE" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/フジテレビONE.jpg" group-title="🇯🇵日本BS",フジテレビONE
 https://nl.utako.moe/fuji_one/index.m3u8
 #EXTINF:-1 tvg-name="フジテレビTWO" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/フジテレビTWO.png" group-title="🇯🇵日本BS",フジテレビTWO
 https://nl.utako.moe/fuji_two/index.m3u8
@@ -139,7 +139,7 @@ https://nl.utako.moe/mtv/index.m3u8
 https://nl.utako.moe/kayopops/index.m3u8
 #EXTINF:-1 tvg-name="Music ON TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/MusicON.jpg" group-title="🇯🇵日本音楽",Music ON TV
 https://nl.utako.moe/musicon/index.m3u8
-#EXTINF:-1 ,tvg-name="QVC Japan" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/QVC.png" group-title="🇯🇵日本ショッピング"QVC Japan
+#EXTINF:-1 tvg-name="QVC Japan" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/QVC.png" group-title="🇯🇵日本ショッピング"QVC Japan
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 ,tvg-name="ショップチャンネル" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/ショップチャンネル.png" group-title="🇯🇵日本ショッピング"ショップチャンネル
+#EXTINF:-1 tvg-name="ショップチャンネル" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/ショップチャンネル.png" group-title="🇯🇵日本ショッピング"ショップチャンネル
 http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
