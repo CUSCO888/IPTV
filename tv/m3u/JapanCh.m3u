@@ -165,3 +165,6 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakute
 
 #EXTINF:-1 tvg-dt="43" tvg-id="rch_43" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/pigoo.png" group-title="RAKUTEN",Pigoo
 http://nl.utako.moe/pigoo/index.m3u8
+
+#EXTINF:-1 tvg-dt="44" tvg-id="rch_44" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/paradise.png" group-title="RAKUTEN",パラダイス
+http://nl.utako.moe/v_paradise/index.m3u8
