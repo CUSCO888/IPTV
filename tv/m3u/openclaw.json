@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "lastTouchedVersion": "2026.1.30",
+    "lastTouchedAt": "2026-02-01T09:17:39.051Z"
+  },
+  "wizard": {
+    "lastRunAt": "2026-02-01T08:52:48.330Z",
+    "lastRunVersion": "2026.1.30",
+    "lastRunCommand": "configure",
+    "lastRunMode": "local"
+  },
+  "auth": {
+    "profiles": {
+      "ollama:local": {
+        "provider": "openai",
+        "mode": "api_key"
+      },
+      "google:default": {
+        "provider": "google",
+        "mode": "api_key"
+      },
+      "moonshot:default": {
+        "provider": "moonshot",
+        "mode": "api_key"
+      }
+    }
+  },
+  "models": {
+    "mode": "merge",
+    "providers": {
+      "ollama": {
+        "baseUrl": "http://127.0.0.1:11434/v1",
+        "apiKey": "ollama",
+        "models": [
+          {
+            "id": "qwen2.5:3b",
+            "name": "Local Qwen"
+          }
+        ]
+      },
+      "moonshot": {
+        "baseUrl": "https://api.moonshot.ai/v1",
+        "api": "openai-completions",
+        "models": [
+          {
+            "id": "kimi-k2-0905-preview",
+            "name": "Kimi K2 0905 Preview",
+            "reasoning": false,
+            "input": ["text"],
+            "cost": { "input": 0, "output": 0, "cacheRead": 0, "cacheWrite": 0 },
+            "contextWindow": 256000,
+            "maxTokens": 8192
+          }
+        ]
+      }
+    }
+  },
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "google/gemini-3-pro-preview",
+        "fallbacks": [
+          "ollama/qwen2.5:3b",
+          "google/gemini-1.5-flash",
+          "moonshot/kimi-k2-0905-preview"
+        ]
+      },
+      "models": {
+        "ollama/qwen2.5:3b": {
+          "alias": "qwen"
+        },
+        "google/gemini-1.5-flash": {},
+        "moonshot/kimi-k2-0905-preview": {
+          "alias": "Kimi K2"
+        },
+        "google/gemini-3-pro-preview": {
+          "alias": "gemini"
+        },
+        "kimi-coding/kimi-k2-thinking": {}
+      },
+      "workspace": "/home/yk/.openclaw/workspace",
+      "compaction": { "mode": "safeguard" },
+      "maxConcurrent": 4,
+      "subagents": { "maxConcurrent": 8 }
+    }
+  },
+  "messages": {
+    "ackReactionScope": "group-mentions"
+  },
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto"
+  },
+  "hooks": {
+    "internal": {
+      "enabled": true,
+      "entries": {
+        "boot-md": { "enabled": true }
+      }
+    }
+  },
+  "channels": {
+    "whatsapp": {
+      "dmPolicy": "allowlist",
+      "selfChatMode": true,
+      "allowFrom": ["+8613601815995", "+818041632133"],
+      "groupPolicy": "allowlist",
+      "mediaMaxMb": 50,
+      "debounceMs": 0
+    },
+    "telegram": {
+      "enabled": true,
+      "dmPolicy": "allowlist",
+      "botToken": "8361546924:AAEPT86uSc8PfFieU_0sVezGxIMJ63z-zms",
+      "allowFrom": ["978973205"],
+      "groupPolicy": "open",
+      "streamMode": "partial",
+      "groups": {
+        "-1003884262406": {
+          "requireMention": false
+        }
+      }
+    }
+  },
+  "gateway": {
+    "port": 18789,
+    "mode": "local",
+    "bind": "loopback",
+    "auth": {
+      "mode": "token",
+      "token": "833eb3d4200bca76a40f4b0123a9e788fcf3e7ac4825fe11"
+    },
+    "tailscale": { "mode": "off", "resetOnExit": false }
+  },
+  "skills": {
+    "install": { "nodeManager": "pnpm" },
+    "entries": {
+      "goplaces": { "apiKey": "AIzaSyBp6s-5TRSYzdsfYhqPC8M18fxv0x3neiU" },
+      "local-places": { "apiKey": "AIzaSyBp6s-5TRSYzdsfYhqPC8M18fxv0x3neiU" },
+      "nano-banana-pro": { "apiKey": "AIzaSyBp6s-5TRSYzdsfYhqPC8M18fxv0x3neiU" }
+    }
+  },
+  "plugins": {
+    "entries": {
+      "telegram": { "enabled": true },
+      "whatsapp": { "enabled": true }
+    }
+  }
+}
