@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml,http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,https://raw.githubusercontent.com/CUSCO888/epg/master/guide.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/CUSCO888/epg/master/guide.xml"
 
 
 #EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKG.png" group-title="🇯🇵日本地上",NHKG HD
