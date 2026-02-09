@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/CUSCO888/epg/master/guide.xml"
-
-
 #EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKG.png" group-title="🇯🇵日本地上",NHKG HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 #EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKE.png" group-title="🇯🇵日本地上",NHKE HD
@@ -49,7 +47,6 @@ http://nl.utako.moe/abc/index.m3u8
 http://nl.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="🇯🇵日本地上" tvg-id="Sun_TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/SUN.png", サンテレビ
 http://nl.utako.moe/suntv/index.m3u8
-
 #EXTINF:-1 tvg-id="NHK_BS" tvg-name="NHK BS" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKBS.png" group-title="🇯🇵日本BS",NHK BS
 https://nl.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 tvg-id="BS_NTV" tvg-name="BS日テレ" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BS日テレ.png" group-title="🇯🇵日本BS",BS日テレ
@@ -164,13 +161,10 @@ https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-gravurecmaf-rakut
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1 tvg-dt="42" tvg-id="rch_42" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png" group-title="RAKUTEN",映画（R15+）
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
-
 #EXTINF:-1 tvg-dt="43" tvg-id="Pigoo" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/pigoo.png" group-title="RAKUTEN",Pigoo
 http://nl.utako.moe/pigoo/index.m3u8
-
 #EXTINF:-1 tvg-dt="44" tvg-id="V_Paradise" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/paradise.png" group-title="RAKUTEN",パラダイス
 http://nl.utako.moe/v_paradise/index.m3u8
-
 #EXTINF:-1 tvg-id="NHK_G" tvg-name="NHK G HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKG.png" group-title="🇯🇵日本地上",NHKG HD
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 #EXTINF:-1 tvg-id="NHK_E" tvg-name="NHK E HD" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/NHKE.png" group-title="🇯🇵日本地上",NHKE HD
@@ -219,9 +213,6 @@ http://nl.utako.moe/abc/index.m3u8
 http://nl.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="🇯🇵日本地上" tvg-id="Sun_TV" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/SUN.png", サンテレビ
 http://nl.utako.moe/suntv/index.m3u8
-
-
-
 #EXTINF:-1 tvg-name="ABN TV (720p)" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/ABN TV (720p).png" group-title="🇰🇷韩国",ABN TV (720p)
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-name="Arirang Radio (720p)" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Arirang Radio (720p).png" group-title="🇰🇷韩国",Arirang Radio (720p)
@@ -386,8 +377,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="RNA" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/RNA.png" group-title="🇰🇷韩国",RNA
 http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
-
-
 #EXTINF:-1 tvg-name="WionNews" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/WionNews.png" group-title="🇺🇸USA",WionNews
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-name="Newsmax" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/Newsmax.png" group-title="🇺🇸USA",Newsmax
@@ -434,7 +423,6 @@ https://fl1.moveonjoy.com/BET_HER/index.m3u8
 https://fl1.moveonjoy.com/BET_SOUL/index.m3u8
 #EXTINF:-1 tvg-name="BET_Jams" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/BET_Jams.png" group-title="🇺🇸USA",BET_Jams
 https://fl1.moveonjoy.com/BET_Jams/index.m3u8
-
 #EXTINF:-1 tvg-name="CBSEAST" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/CBSEAST.png" group-title="🇺🇸USA",CBSEAST
 https://fl1.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 tvg-name="CMT" tvg-logo="https://cdn.jsdelivr.net/gh/CUSCO888/IPTV@main/tv/JLogo/CMT.png" group-title="🇺🇸USA",CMT
